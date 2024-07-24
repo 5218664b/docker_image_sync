@@ -1,4 +1,4 @@
-name: Docker-sync-arm64-to-aliyun-cloud
+name: Docker-sync-armv7-to-aliyun-cloud
 on:
   workflow_dispatch:
   push:
