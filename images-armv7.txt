@@ -1,2 +1,2 @@
 --platform=linux/arm64 mysql:8.0
---platform=linux/arm32v7 qt
+--platform=linux/arm64 qt
