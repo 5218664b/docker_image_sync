@@ -1,3 +1,4 @@
 #--platform=linux/arm64 mysql:8.0
 #--platform=linux/arm/v7 alpine
-tyrannicelite/raspbian-qt-rpi2-shared-nolocalization:qt5.12.10
+#tyrannicelite/raspbian-qt-rpi2-shared-nolocalization:qt5.12.10
+--platform=linux/arm/v7 jlesage/firefox
