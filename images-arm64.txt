@@ -2,6 +2,7 @@
 --platform=linux/arm64 nginx:1.27
 --platform=linux/aarch64 portainer/portainer
 --platform=linux/aarch64 jaymoulin/plex
+--platform=linux/aarch64 jlesage/firefox
 #--platform=linux/arm64 nginx:1.27-alpine3.19-slim
 # 没有--platform=linux/arm64 mysql:5.7
 #--platform=linux/arm64 mysql:8.0
