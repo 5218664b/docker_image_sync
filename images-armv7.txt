@@ -4,4 +4,5 @@
 #--platform=linux/arm/v8 jlesage/firefox
 #--platform=linux/arm/v8 p3terx/aria2-pro
 #--platform=linux/arm/v8 p3terx/ariang
---platform=linux/arm/v8 dperson/samba
+#--platform=linux/arm/v8 dperson/samba
+--platform=linux/arm/v8 dockurr/samba
