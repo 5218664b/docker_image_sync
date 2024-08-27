@@ -6,4 +6,4 @@
 #--platform=linux/arm/v8 p3terx/ariang
 #--platform=linux/arm/v8 dperson/samba
 #--platform=linux/arm/v8 jaymoulin/plex
---platform=linux/arm/v8 home-assistant/supervised
+--platform=linux/arm/v8 ghcr.io/home-assistant/home-assistant
